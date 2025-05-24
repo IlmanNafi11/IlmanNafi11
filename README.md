@@ -52,7 +52,7 @@ I'm proficient in crafting end-to-end web solutions using:
 I'm always keen to discuss new projects, innovative ideas, or how we can work together.
 
 * **Portfolio Website:** [Portfolio](https://portofolio.builtwithafi.web.id/)
-* **LinkedIn:** [linkedin.com/in/ilman-nafian](www.linkedin.com/in/ilman-nafian-a7a008362)
+* **LinkedIn:** [linkedin.com/in/ilman-nafian](https://www.linkedin.com/in/ilman-nafian-a7a008362)
 * **Email Me:** [ilmannafi04@gmail.com](mailto:ilmannafi04@gmail.com)
 
 ---
